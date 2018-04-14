@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Introduction
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hi, this is Aonan Zhang.  The purpose of this blog is to keep a record of the life that would go away too fast, without grasping it consciously.
 
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+## Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zhang.0.aonan@gmail.com](mailto:email@domain.com)
